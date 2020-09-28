@@ -40,7 +40,7 @@ const init = async () => {
             plugin: HapiSwagger,
             options: {
                 info: {
-                    title: 'SOFIT Mobile Challenge API Docs'
+                    title: 'SOFIT Frontend Challenge API Docs'
                 },
                 securityDefinitions: {
                     'Bearer': {

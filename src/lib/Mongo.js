@@ -1,7 +1,7 @@
 const MongoClient = require('mongodb').MongoClient;
 const ObjectId = require('mongodb').ObjectID;
 
-const MONGO_DB_NAME = 'mobile-challenge';
+const MONGO_DB_NAME = 'front-end-challenge';
 
 const config = require('../config/config.js');
 

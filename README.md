@@ -1,4 +1,4 @@
-# Desafio técnico para desenvolvimento mobile
+# Desafio técnico para desenvolvimento frontend
 
 Este teste visa avaliar os conhecimentos em um framework de front-end necessários para aplicação a oportunidade de desenvolvedor front end aqui na [Sofit](https://sofit4.com.br).
 
@@ -12,9 +12,9 @@ A aplicação deve ser desenvolvida uilizando um framework frontend de mercado, 
 
 ## APIs
 
-As APIs devem ser consumidas de acordo com a documentação disponibilizada no link: https://sofit-mobile-challenge.herokuapp.com/documentation
+As APIs devem ser consumidas de acordo com a documentação disponibilizada no link: https://sofit-front-challenge.herokuapp.com/documentation
 
-Inicialmente deve ser feita uma requisição para a API de [start](https://sofit-mobile-challenge.herokuapp.com/documentation#/start/getStartEmail), passando o seu e-mail, o retorno desta requisição será um token identifiacando o usuário. Este token deve ser utilizado no header de todas as requisições posteriores como autenticação _Bearer_.
+Inicialmente deve ser feita uma requisição para a API de [start](https://sofit-front-challenge.herokuapp.com/documentation#/start/getStartEmail), passando o seu e-mail, o retorno desta requisição será um token identifiacando o usuário. Este token deve ser utilizado no header de todas as requisições posteriores como autenticação _Bearer_.
 
 ## Interface
 
